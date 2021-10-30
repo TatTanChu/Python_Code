@@ -1,4 +1,4 @@
-rom collections import defaultdict 
+from collections import defaultdict 
 from array import array
 
 grap = {
